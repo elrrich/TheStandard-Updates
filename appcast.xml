@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>The Standard</title>
+        <item>
+            <title>Version 1.1.1</title>
+            <pubDate>Mon, 25 Mar 2024 14:00:00 +0000</pubDate>
+            <sparkle:version>1.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in Version 1.1.1</h2>
+                <ul>
+                    <li>Fixed automatic update system configuration</li>
+                </ul>
+            ]]></description>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/elrrich/TheStandard/releases/download/v1.1.1/TheStandard-1.1.1.zip"
+                sparkle:version="1.1.1"
+                sparkle:shortVersionString="1.1.1"
+                length="4977890"
+                type="application/octet-stream"
+                sparkle:edSignature="1wjqs+5tdkOiLhKPtBcV7orU/SSjgMow9crDXln6B8VhC+80EUHXAgwHaWHB0Fie66qUohnLpFY3MeNu7J91BQ=="
+            />
+        </item>
+        <item>
+            <title>Version 1.1</title>
+            <pubDate>Mon, 25 Mar 2024 12:00:00 +0000</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in Version 1.1</h2>
+                <ul>
+                    <li>Fixed critical bug in Content Editor's initial popup behavior</li>
+                    <li>Added real-time content updates</li>
+                    <li>Integrated automatic update system using Sparkle</li>
+                    <li>Various UI improvements and bug fixes</li>
+                </ul>
+            ]]></description>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/elrrich/TheStandard/releases/download/v1.1/TheStandard-1.1.zip"
+                sparkle:version="1.1"
+                sparkle:shortVersionString="1.1"
+                length="4976362"
+                type="application/octet-stream"
+                sparkle:edSignature="qYvqSt5R1YsB6e68kFrzx0HfrqeQD0ENbUwMHnKfNZhsRcfnPs1q0wj1obZiX3MfjLZIz9PNRxmmlCzgukpvCg=="
+            />
+        </item>
+    </channel>
+</rss> 
