@@ -47,5 +47,76 @@
                 sparkle:edSignature="qYvqSt5R1YsB6e68kFrzx0HfrqeQD0ENbUwMHnKfNZhsRcfnPs1q0wj1obZiX3MfjLZIz9PNRxmmlCzgukpvCg=="
             />
         </item>
+        <item>
+            <title>Version 1.2</title>
+            <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in Version 1.2</h2>
+                <h3>Major Features</h3>
+                <ul>
+                    <li>Implemented new Status System with visual slider interface</li>
+                    <li>Added full-featured Markdown Editor with toolbar and keyboard shortcuts</li>
+                    <li>Enhanced copy functionality with multiple format options</li>
+                </ul>
+                
+                <h3>Markdown Editor</h3>
+                <ul>
+                    <li>Added visual toolbar for common markdown operations</li>
+                    <li>Implemented keyboard shortcuts:
+                        <ul>
+                            <li>⌘B for Bold</li>
+                            <li>⌘I for Italic</li>
+                            <li>⌘. for Quote</li>
+                            <li>⌘⌥1/2/3 for Headers</li>
+                            <li>⌘K for Links</li>
+                            <li>⌘L for Lists</li>
+                            <li>⌘⇧L for Numbered Lists</li>
+                        </ul>
+                    </li>
+                    <li>Added real-time preview mode</li>
+                </ul>
+
+                <h3>Copy Enhancement</h3>
+                <ul>
+                    <li>Added multiple copy formats:
+                        <ul>
+                            <li>Markdown - preserves formatting</li>
+                            <li>Plain Text - strips formatting</li>
+                            <li>Title Only - just the title</li>
+                            <li>Title & Summary - for quick sharing</li>
+                        </ul>
+                    </li>
+                    <li>Added visual feedback for copy operations</li>
+                    <li>Integrated with system clipboard</li>
+                </ul>
+
+                <h3>Status System</h3>
+                <ul>
+                    <li>Implemented new visual status slider</li>
+                    <li>Added smooth transitions between states</li>
+                    <li>Improved status validation and error handling</li>
+                    <li>Enhanced visual feedback for status changes</li>
+                </ul>
+
+                <h3>Bug Fixes & Improvements</h3>
+                <ul>
+                    <li>Fixed bundle system type handling</li>
+                    <li>Improved database operations reliability</li>
+                    <li>Enhanced error handling and user feedback</li>
+                    <li>Various UI and performance improvements</li>
+                </ul>
+            ]]></description>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/elrrich/TheStandard/releases/download/v1.2/TheStandard-1.2.zip"
+                sparkle:version="1.2"
+                sparkle:shortVersionString="1.2"
+                length="5055255"
+                type="application/octet-stream"
+                sparkle:edSignature="lFU4QzZiclriEuHPxZJmGPxAKI+iip9fonpyCB+khz0zLqhQYft/Asoo6luaEg56OZppYSw8X1U6f7vnqWmUDw=="
+            />
+        </item>
     </channel>
 </rss> 
